@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.postimg.cc/Hx0pjRD4/banner02.jpg" />
+  <img height="200" src="https://i.postimg.cc/xCZPJxv8/github-header-image.png" />
 </div>
 
 # Md. Noushin Islam  
