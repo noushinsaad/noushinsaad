@@ -1,40 +1,79 @@
-## About Me 👋
-- 🌟 **Main languages**: JavaScript, C++, Python
-- 📂 **Portfolio**: [yourportfolio.com](https://yourportfolio.com)
-- 📚 **Learning**: Basic Data Structures
-- 💻 **Projects**: Available at [GitHub](https://github.com/yourusername)
-- 💬 **Ask me about**: React, JavaScript, Frontend Technologies
-- 🤝 **Collaborating**: Open to interesting projects
-- 🏢 **Working at**: Your Company
-- 📫 **Contact**: your-email@example.com
+<div align="center">
+  <img height="200" src="https://i.postimg.cc/pXhNy3HN/rsz-dsc03035.jpg"  />
+</div>
 
-## Skills: Frontend Technologies
-![HTML](https://img.shields.io/badge/-HTML-orange)
-![CSS](https://img.shields.io/badge/-CSS-blue)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-...
+###
 
-## Skills: Backend Technologies
-![Node.js](https://img.shields.io/badge/-Node.js-green)
-![Express](https://img.shields.io/badge/-Express-grey)
-...
+<h1 align="left">Md. Noushin Islam</h1>
 
-## Skills: Database
-![MongoDB](https://img.shields.io/badge/-MongoDB-green)
-...
+###
 
-## Tools
-![Git](https://img.shields.io/badge/-Git-red)
-![Figma](https://img.shields.io/badge/-Figma-purple)
-...
+<p align="left">Frontend Designer and Developer</p>
 
-## Currently Learning
-- 🌱 **Flutter**: Exploring cross-platform mobile app development with Flutter.
+###
 
-## Connect with me
-[![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-blue)](https://twitter.com/yourhandle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue)](https://linkedin.com/in/yourhandle)
-...
+<h2 align="left">About me</h2>
 
-## GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+###
+
+<p align="left">📂 Portfolio: https://portfolio-saad0205.surge.sh/<br>📚 I'm currently learning ...🌱 Flutter: Exploring cross-platform mobile app development with Flutter.<br> 💻 Projects: Available at GitHub(https://github.com/noushinsaad?tab=repositories)<br>🤝 Collaborating: Open to interesting projects<br>📫 Contact: your-noushinshoha@gmail.com</p>
+
+###
+
+<h2 align="left">Connect With Me</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/md-noushin-islam-sa-ad-1159481aa/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/SaAd96298" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="+8801983332414" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+</div>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=noushinsaad&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noushinsaad&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=noushinsaad&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
