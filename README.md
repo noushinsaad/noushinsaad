@@ -17,10 +17,19 @@
 
 ---
 
-## 📞 Connect With Me  
-[![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/md-noushin-islam-sa-ad-1159481aa/)  
-[![Twitter](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg)](https://x.com/SaAd96298)  
-[![WhatsApp](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg)](tel:+8801983332414)  
+<h2 align="left">Connect With Me</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/md-noushin-islam-sa-ad-1159481aa/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/SaAd96298" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+</div>
+
 
 ---
 
