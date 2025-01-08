@@ -14,7 +14,7 @@
   🌱 Exploring cross-platform mobile development with **Flutter**  
 - **💻 Projects:** [View on GitHub](https://github.com/noushinsaad?tab=repositories)  
 - **🤝 Open to Collaborations:** Let's work on exciting projects together!  
-- **📫 Contact:** your-noushinshoha@gmail.com  
+- **📫 Contact:** noushinshoha@gmail.com  
 
 ---
 
