@@ -1,6 +1,4 @@
-![Header Banner](path-to-your-image.png)
-
-# About Me 👋
+## About Me 👋
 - 🌟 **Main languages**: JavaScript, C++, Python
 - 📂 **Portfolio**: [yourportfolio.com](https://yourportfolio.com)
 - 📚 **Learning**: Basic Data Structures
@@ -29,6 +27,9 @@
 ![Git](https://img.shields.io/badge/-Git-red)
 ![Figma](https://img.shields.io/badge/-Figma-purple)
 ...
+
+## Currently Learning
+- 🌱 **Flutter**: Exploring cross-platform mobile app development with Flutter.
 
 ## Connect with me
 [![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-blue)](https://twitter.com/yourhandle)
