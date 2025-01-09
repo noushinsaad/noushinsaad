@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.postimg.cc/xCZPJxv8/github-header-image.png" />
+  <img height="200" src="https://i.postimg.cc/D08V4d43/Black-and-White-Simple-Art-Director-Linked-In-Banner.png" />
 </div>
 
 # Md. Noushin Islam  
