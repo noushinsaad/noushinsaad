@@ -5,7 +5,9 @@
 # Md. Noushin Islam  
 **Frontend Designer and Developer**
 
-**I am Noushin, graduated from the Computer Science and Engineering Department of BRAC University. I am passionate about technology and robotics. I am a person who works hard and is enthused, motivated by myself, dependable, and responsible.**
+<p align="left" style="font-size: 12px; font-weight: 300;">
+  I am Noushin, graduated from the Computer Science and Engineering Department of BRAC University. I am passionate about technology and robotics. I am a person who works hard and is enthused, motivated by myself, dependable, and responsible.
+</p>
 ---
 
 ## 🌟 About Me  
