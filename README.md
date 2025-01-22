@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.postimg.cc/D08V4d43/Black-and-White-Simple-Art-Director-Linked-In-Banner.png" />
+  <img height="200" width="100%" src="https://i.postimg.cc/D08V4d43/Black-and-White-Simple-Art-Director-Linked-In-Banner.png" />
 </div>
 
 # Md. Noushin Islam  
