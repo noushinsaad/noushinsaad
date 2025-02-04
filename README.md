@@ -5,6 +5,16 @@
 # Md. Noushin Islam  
 **Frontend Designer and Developer**
 
+---
+
+## 📊 GitHub Stats  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=noushinsaad&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noushinsaad&layout=compact&theme=dark&hide_border=true" height="150" alt="Top languages" />
+  <img src="https://nirzak-streak-stats.vercel.app?user=noushinsaad&theme=dark&hide_border=true" height="150" alt="GitHub Streak">
+</div>
+
 <p align="left" style="font-size: 12px; font-weight: 300;">
   Graduated from the Computer Science and Engineering Department of BRAC University, with a strong passion for technology and robotics. Skilled in frontend design and development, with expertise in JavaScript, React, Node.js, and other modern technologies. Continuously learning and exploring new areas like cross-platform mobile development with Flutter. Open to collaborations on exciting projects and driven by a commitment to building impactful solutions.
 </p>
@@ -52,16 +62,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy logo" />
-</div>
-
----
-
-## 📊 GitHub Stats  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noushinsaad&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noushinsaad&layout=compact&theme=dark&hide_border=true" height="150" alt="Top languages" />
-  <img src="https://nirzak-streak-stats.vercel.app?user=noushinsaad&theme=dark&hide_border=true" height="150" alt="GitHub Streak">
 </div>
 
 ---
