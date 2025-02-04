@@ -61,7 +61,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=noushinsaad&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true" height="150" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noushinsaad&layout=compact&theme=dark&hide_border=true" height="150" alt="Top languages" />
-  <img src="https://nirzak-streak-stats.vercel.app?user=noushinsaad&theme=dark" height="150" alt="GitHub Streak">
+  <img src="https://nirzak-streak-stats.vercel.app?user=noushinsaad&theme=dark&hide_border=true" height="150" alt="GitHub Streak">
 </div>
 
 ---
