@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="500px" width="100%" src="https://i.postimg.cc/jSL9fjFx/Github-Banner.png" />
+  <img height="100%" width="100%" src="https://i.ibb.co.com/pjBWVK6k/Github-Banner.png" />
 </div>
 
 # Md. Noushin Islam  
