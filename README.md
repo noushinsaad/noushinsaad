@@ -3,7 +3,7 @@
 </div>
 
 # Md. Noushin Islam  
-**Frontend Designer and Developer**
+**Web Developer**
 
 <p align="left" style="font-size: 12px; font-weight: 300;">
   Graduated from the Computer Science and Engineering Department of BRAC University, with a strong passion for technology and robotics. Skilled in frontend design and development, with expertise in JavaScript, React, Node.js, and other modern technologies. Continuously learning and exploring new areas like cross-platform mobile development with Flutter. Open to collaborations on exciting projects and driven by a commitment to building impactful solutions.
